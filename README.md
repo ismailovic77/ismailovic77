@@ -6,9 +6,9 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Nizar Stitou
+name: Ismail Yahyaoui
 located_in: Calais, France
-learning about: Data, Machine Learning, Deep Learning
+learning about: Machine Learning, Deep Learning , Data Analysis . 
 education:
   [
     "B.E. Software Engineering in EILCO",
@@ -19,14 +19,16 @@ fields_of_interests:
     "Data Analysis",
     "Data Engineering",
     "Computer Vision",
+    "Web Developement",
+    "Competitive Programming",
   ]
 professionnel_experience:
   [
-    "Intern - Data Science/ML @Deepecho-org",
-    "Intern - Initiation @Lerma lab UIR",
+    "Part time Web Developer - Web App on CLoud for uploading classifying patient medical images @Deepecho-org",
+    "Intern - Image anonimization and labeling app @Deepecho-org",
   ]
   
-currently_learning: ["Docker, Kubernetes"]
+currently_learning: ["Computer Vision , React , Docker "]
 assets: ["Volunteering", "Community Building", "Team Work"]
 ```
   
